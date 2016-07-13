@@ -19,7 +19,7 @@ object Service {
 
   val prg = for {
     //Step 2) Uncomment the next line:
-    a <- DSL0.OhNo("Test").freek[PRG]
+    //a <- DSL0.OhNo("Test").freek[PRG]
   } yield ???
 }
 
